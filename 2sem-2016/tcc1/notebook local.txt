@@ -1,0 +1,31 @@
+Entregas
+Fichamentos – Resumo de artigo
+31 de Agosto  - Artigo
+30 de Setembro – Livro
+31 de Outubro – Artigo
+30 de Novembro – Livro
+
+Problema de Pesquisa
+- Natureza do problema
+- Fontes do problema – de onde ele vai surgir (Experiência profissional, dedução de uma teoria, literatura correlata, campo experimental, laboratório pedagógico)
+
+
+- Critério de avaliação do problema – Relevância teórica e social, conduzir a novos problemas, ser pesquisável e congruente, ser adequado ao pesquisador, em termos de possibilidade de coleta de dados e tempo disponível.
+
+
+- Exposição do Problema – deve exprimir, exatamente o que precisa ser determinado ou resolvido. Deve ser restrito a uma questão especifica. Os termos do enunciado devem ser corretamente definidos.
+
+
+- Estabelecimento do problema – A pesquisa sistemática começa com um problema. Depois de escolhida a grande área do problema, ela deve ser estreitada até estabelecer-se uma área restrita e precisamente definida numa proposição interrogativa.
+
+
+pára Emerson.... eu discordo.... 
+
+isso:
+ $user->setName('John')->setSurname('Doe')->setPassword('root');
+
+n​ao é mais legível que isso:
+$user->setName('John');
+$user->setSurname('Doe');
+$user->setPassword('root');​
+
